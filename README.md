@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @NE0-578
-- 👀 I’m interested in ...Earth & DA UniXVerse
-- 🌱 I’m currently learning ...DEvOPs_MUSIC_LINUX_DOCKER_PhotoOPs
+- 👋 Hi, I’m @neo1133
+- 👀 I’m interested in ... Earth & DA UniVXerse
+- 🌱 I’m learning ...DevOPs_MUSIC_LINUX_DOCKER_PhotoOPs
 - 💞️ I’m looking to collaborate on ...ALL
-- 📫 How to reach me ...N/A
-- 😄 Pronouns: ...N/A
-- ⚡ Fun fact: ...N/A
+- 📫 How to reach me ... N/A
+- 😄 Pronouns: ... N/A
+- ⚡ Fun fact: ... N/A
 
 <!---
 NE0-578/NE0-578 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neo1133
-- 👀 I’m interested in ... Earth & DA UniVXerse
+- 👀 I’m interested in ... Earth & DA UniXVerse
 - 🌱 I’m learning ...DevOPs_MUSIC_LINUX_DOCKER_PhotoOPs
 - 💞️ I’m looking to collaborate on ...ALL
 - 📫 How to reach me ... N/A
